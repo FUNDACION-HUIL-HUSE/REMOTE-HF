@@ -13,10 +13,10 @@ Herramienta de inteligencia artificial para detectar de forma automática patron
 
 | Documento | Ver online | Descargar |
 |---|---|---|
-| Términos de la participación | [terminos.html](terminos.html) | [Word](terminos.docx) |
-| Política de privacidad | [privacidad.html](privacidad.html) | [Word](privacidad.docx) |
+| Términos de la participación | [Ver página](https://fundacion-huil-huse.github.io/REMOTE-HF/terminos.html) | [Word](https://fundacion-huil-huse.github.io/REMOTE-HF/terminos.docx) |
+| Política de privacidad | [Ver página](https://fundacion-huil-huse.github.io/REMOTE-HF/privacidad.html) | [Word](https://fundacion-huil-huse.github.io/REMOTE-HF/privacidad.docx) |
 
 ## Contacto
 
-Fundación para la Investigación e Innovación Biomédica del Hospital Universitario Infanta Leonor y del Hospital Universitario del Sureste (FIIBHUILHUSE)
+Fundación para la Investigación e Innovación Biomédica del Hospital Universitario Infanta Leonor y del Hospital Universitario del Sureste (FIIBHUILHUSE)  
 📧 innovacion@fiibhuilhuse.es
